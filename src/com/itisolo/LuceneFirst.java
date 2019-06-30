@@ -117,5 +117,6 @@ public class LuceneFirst {
 
         System.out.println("我改代码了。。。。。。。。");
 
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
     }
 }
