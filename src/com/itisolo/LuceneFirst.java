@@ -116,6 +116,6 @@ public class LuceneFirst {
 //        TokenStream tokenStream = analyzer.tokenStream()
 
         System.out.println("我改代码了。。。。。。。。");
-
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaa");
     }
 }
