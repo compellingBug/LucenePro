@@ -119,9 +119,11 @@ public class LuceneFirst {
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaa");
 
         System.out.println("bbbbbbbbbbbbbbbbbbbb");
-        //dev分支
-        System.out.println("我是Dev分支。。。。。。");
+
         //master分支
         System.out.println("我是master分支。。。。。。。");
+        //新的dev分支
+        System.out.println("新的dev分支。。。。。");
+
     }
 }
