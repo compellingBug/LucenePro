@@ -115,5 +115,7 @@ public class LuceneFirst {
         //第二个参数：要分析的文本内容
 //        TokenStream tokenStream = analyzer.tokenStream()
 
+        System.out.println("我改代码了。。。。。。。。");
+
     }
 }
